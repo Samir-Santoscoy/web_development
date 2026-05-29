@@ -1,3 +1,5 @@
-let nombre = 'Gaby'
+let nombre = 'Gaby';
+//comentario stash
+console.log(nombre);
 
-console.log(nombre)
+let numero = 2;
